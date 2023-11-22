@@ -11,7 +11,7 @@
         <Button x:Name ="StopButton" Content="Stop" HorizontalAlignment="Center" VerticalAlignment="Bottom" Width="150" Height="54" Background="#FF639FAB" Foreground="White" FontSize="20" FontWeight="Bold" Click="StopButton_Click" Margin="0,3,0,0"/>
         <Button x:Name ="ResetButton" Content="Reset" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="150" Height="54" Background="#FFBBCDE5" FontSize="20" FontWeight="Bold" Click="ResetButton_Click"/>
         <Rectangle HorizontalAlignment="Center" Height="130" Margin="0,10,0,0" Stroke="Black" VerticalAlignment="Top" Width="259" Fill="White"/>
-        <Label x:Name ="TimerBox" HorizontalAlignment="Center" Margin="0,39,0,0" VerticalAlignment="Top" Width="134" Height="89" FontSize="48" FontWeight="Bold" Content="00:00"/>
+        <Label x:Name ="TimerBox" HorizontalAlignment="Center" VerticalAlignment="Top" Width="135" Height="75" FontSize="48" FontWeight="Bold" Content="00:00" Margin="0,40,0,0"/>
         
 
     </Grid>
