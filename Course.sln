@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DSL_MVP", "DSL_MVP\DSL_MVP.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events_1", "Events_1\Events_1.csproj", "{F4020D1F-4BAA-4621-8E7E-BBD5D22372EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threads_1", "Threads1\Threads_1.csproj", "{36F975CF-F00B-49B4-8FFC-AC21A86CB0CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{F4020D1F-4BAA-4621-8E7E-BBD5D22372EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4020D1F-4BAA-4621-8E7E-BBD5D22372EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4020D1F-4BAA-4621-8E7E-BBD5D22372EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36F975CF-F00B-49B4-8FFC-AC21A86CB0CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36F975CF-F00B-49B4-8FFC-AC21A86CB0CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36F975CF-F00B-49B4-8FFC-AC21A86CB0CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36F975CF-F00B-49B4-8FFC-AC21A86CB0CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
