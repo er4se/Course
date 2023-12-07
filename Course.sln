@@ -19,7 +19,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events_1", "Events_1\Events
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Threads_1", "Threads1\Threads_1.csproj", "{36F975CF-F00B-49B4-8FFC-AC21A86CB0CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections_1", "Collections_1\Collections_1.csproj", "{6CB0D9E3-5300-4158-850D-2B384BC617C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections_1", "Collections_1\Collections_1.csproj", "{6CB0D9E3-5300-4158-850D-2B384BC617C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exeptions_1", "Exeptions_1\Exeptions_1.csproj", "{4C0102C2-3C1B-46FD-A581-B54938C75526}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exeptions_2", "Exeptions_2\Exeptions_2.csproj", "{F57AF173-20E3-4E82-9091-B3037570B3E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exeptions_additional_3", "Exeptions_additional_3\Exeptions_additional_3.csproj", "{FF604E71-FEEC-465E-84F0-20D7BE6028CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +69,18 @@ Global
 		{6CB0D9E3-5300-4158-850D-2B384BC617C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CB0D9E3-5300-4158-850D-2B384BC617C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CB0D9E3-5300-4158-850D-2B384BC617C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C0102C2-3C1B-46FD-A581-B54938C75526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C0102C2-3C1B-46FD-A581-B54938C75526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C0102C2-3C1B-46FD-A581-B54938C75526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C0102C2-3C1B-46FD-A581-B54938C75526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F57AF173-20E3-4E82-9091-B3037570B3E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F57AF173-20E3-4E82-9091-B3037570B3E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F57AF173-20E3-4E82-9091-B3037570B3E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F57AF173-20E3-4E82-9091-B3037570B3E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF604E71-FEEC-465E-84F0-20D7BE6028CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF604E71-FEEC-465E-84F0-20D7BE6028CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF604E71-FEEC-465E-84F0-20D7BE6028CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF604E71-FEEC-465E-84F0-20D7BE6028CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
